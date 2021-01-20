@@ -1,0 +1,10 @@
+.char_box {
+            margin: 5px;
+            border: 2px black solid;
+}
+
+#container-Seller {
+    width: 1330px;
+    height: 900px;
+    margin-left:10px;
+}

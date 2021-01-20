@@ -1,0 +1,11 @@
+.btn-primary {
+    background-color:rgb(90, 13, 36)!important;
+} 
+.jumbotron{
+   box-shadow: 4px 4px 8px black!important;
+}
+.list-group-item-secondary{
+    background-color:rgb(90, 13, 36)!important;
+    color: whitesmoke;
+    text-shadow: 2px 2px 3px black;
+}
